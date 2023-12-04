@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saicharan Balamurali
-- 👀 I’m interested in Perception in robotics applications.
-- 🌱 I’m currently enrolled in my MS in Robotics program at Johns Hopkins.
+- 👀 I’m interested in Deep Learning and its related applications.
+- 🌱 I graduated with an MS in Robotics program from Johns Hopkins in May 2023.
 - 📫 How to reach me: saicharanb56@gmail.com or sbalamu1@jhu.edu
 
 <!---
